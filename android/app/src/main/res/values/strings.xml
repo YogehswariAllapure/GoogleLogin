@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">devdacticLogin</string>
+    <string name="title_activity_main">devdacticLogin</string>
+    <string name="package_name">com.cloud.capalogin</string>
+    <string name="custom_url_scheme">com.cloud.capalogin</string>
+    <string name="server_client_id">479758573753-4v156scl75a4s09bhs5r5dsaak4gqoj7.apps.googleusercontent.com</string>
+</resources>

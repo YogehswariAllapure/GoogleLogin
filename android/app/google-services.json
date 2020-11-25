@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576029773023",
+    "firebase_url": "https://capa-test-60878.firebaseio.com",
+    "project_id": "capa-test-60878",
+    "storage_bucket": "capa-test-60878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576029773023:android:4c0e462318ed5da6c66d6a",
+        "android_client_info": {
+          "package_name": "com.cloud.capalogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479758573753-4v156scl75a4s09bhs5r5dsaak4gqoj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloud.capalogin",
+            "certificate_hash": "272bbc68333ca6e3bfa219aa9675738b270df543"
+          }
+        },
+        {
+          "client_id": "479758573753-4v156scl75a4s09bhs5r5dsaak4gqoj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKpUmjwM_evBuJ5jZo2cUKr1hxtWtvPw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479758573753-4v156scl75a4s09bhs5r5dsaak4gqoj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
